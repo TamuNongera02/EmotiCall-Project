@@ -15,7 +15,7 @@ emotion =  ['Anger', 'Happy', 'Neutral', 'Surprise', 'Sad']
 model = keras.models.load_model("my_model.h5")
 
 # Select font 
-font = cv2.FONT_HERSHEY_SIMPLEX
+# font = cv2.FONT_HERSHEY_SIMPLEX
 
 # Call the camera device=0.
 cam = cv2.VideoCapture(0)
