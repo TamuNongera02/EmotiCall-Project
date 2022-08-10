@@ -6,7 +6,7 @@ import tensorflow as tf
 from tensorflow import keras
 import numpy as np
 import streamlit as st
-import cv2
+# import cv2
 
 # List of emotions 
 emotion =  ['Anger', 'Happy', 'Neutral', 'Surprise', 'Sad']
